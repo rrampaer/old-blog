@@ -35,6 +35,7 @@ The idea comes from **Joel Runyon**, who created the world’s first impossible 
 * Complete a triathlon
   * Complete a half ironman
     * Complete a full ironman
+* Run the [Fully VK](https://fr.wikipedia.org/wiki/Kilom%C3%A8tre_vertical_de_Fully
     
 ## Travel
 * ~~Go on a road trip~~ ([2000km road trip in France in 2012](https://www.youtube.com/watch?v=-HZUHWViblg), [8500km to Lofoten Islands in 2013](https://www.youtube.com/watch?v=_CNPuy3bw1A))
